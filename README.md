@@ -1,4 +1,4 @@
-# After wasting like 2 days, I'm making a resume for my koreader setup on Tolino epos1
+# I'm making a resume for my koreader setup on Tolino epos1
 
 ## Tolino Epos 1: Nova Launcher and KOReader via ADB
 
